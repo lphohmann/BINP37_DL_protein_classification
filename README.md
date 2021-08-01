@@ -131,8 +131,11 @@ sbatch myjob.sh
 ```
 
 Further information on running jobs on Tetralith and using GPU nodes can be found at:
+
 https://www.nsc.liu.se/support/batch-jobs/introduction/
+
 https://www.nsc.liu.se/support/running-applications/
+
 https://www.nsc.liu.se/support/systems/tetralith-GPU-user-guide/
 
 ## **Additional resources:**
